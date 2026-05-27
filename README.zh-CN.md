@@ -4,9 +4,11 @@
 
 ## 关于这个 Fork
 
-本仓库基于 [ayasa520/redroid-script](https://github.com/ayasa520/redroid-script) 维护。
+本仓库基于 [ayasa520/redroid-script](https://github.com/ayasa520/redroid-script) fork 而来。
 
-原项目看起来已经较长时间没有维护，部分上游下载地址也已经失效。本仓库主要修复这些失效的下载地址，并尽量保持原脚本行为不变。
+原作者目前已经在持续更新原项目。本项目不再维护。如果有 issue 或功能需求，请提交到原作者的项目。
+
+后续我会根据需求上传其他 Android 版本的镜像。
 
 ## 预构建镜像
 

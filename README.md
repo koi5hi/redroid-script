@@ -4,9 +4,11 @@
 
 ## About this fork
 
-This repository is a maintained fork of [ayasa520/redroid-script](https://github.com/ayasa520/redroid-script).
+This repository is a fork of [ayasa520/redroid-script](https://github.com/ayasa520/redroid-script).
 
-The original project appears to be inactive, and some upstream download URLs had stopped working. This fork mainly updates those download URLs while keeping the original script behavior as close to upstream as possible.
+The original author is now actively updating the upstream project. This project is no longer maintained. If you have issues or feature requests related to the script, please submit them to the original project.
+
+I may upload images for other Android versions later based on demand.
 
 ## Prebuilt images
 
